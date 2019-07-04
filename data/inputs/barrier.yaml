@@ -1,0 +1,71 @@
+vac_1_Cr:
+  -1:
+  - {d_par: 0.39, d_perp: 2.609, energy: 2.39, multiplicity: 3, freq: 0}
+  - {d_par: 2.67, d_perp: 0, energy: 3.52, multiplicity: 1, freq: 0}
+  - {d_par: 2.009, d_perp: 0, energy: 2.656, multiplicity: 0.5, freq: 0}
+  - {d_par: 2.123, d_perp: 0, energy: 2.889, multiplicity: 0.5, freq: 0}
+  -2:
+  - {d_par: 0.382, d_perp: 2.657, energy: 2.11, multiplicity: 3, freq: 0}
+  - {d_par: 2.67, d_perp: 0, energy: 2.64, multiplicity: 1, freq: 0}
+  - {d_par: 2.054, d_perp: 0, energy: 2.856, multiplicity: 0.5, freq: 0}
+  - {d_par: 2.074, d_perp: 0, energy: 2.613, multiplicity: 0.5, freq: 0}
+  -3:
+  - {d_par: 0.381, d_perp: 2.688, energy: 2.01, multiplicity: 3, freq: 0}
+  - {d_par: 2.67, d_perp: 0, energy: 2.37, multiplicity: 1, freq: 0}
+  - {d_par: 1.649, d_perp: 0, energy: 2.279, multiplicity: 0.5, freq: 0}
+  - {d_par: 2.474, d_perp: 0, energy: 2.761, multiplicity: 0.5, freq: 0}
+  0:
+  - {d_par: 0.389, d_perp: 2.581, energy: 2.66, multiplicity: 3, freq: 0}
+  - {d_par: 2.67, d_perp: 0, energy: 3.25, multiplicity: 1, freq: 0}
+  - {d_par: 1.654, d_perp: 0, energy: 2.759, multiplicity: 0.5, freq: 0}
+  - {d_par: 2.48, d_perp: 0, energy: 2.147, multiplicity: 0.5, freq: 0}
+vac_2_O:
+  0:
+  - {d_par: 0, d_perp: 2.63, energy: 2.32, multiplicity: 2, freq: 0}
+  - {d_par: 0, d_perp: 3.02, energy: 3.65, multiplicity: 4, freq: 0}
+  - {d_par: 2.28, d_perp: 1.54, energy: 2.47, multiplicity: 2, freq: 0}
+  - {d_par: 2.28, d_perp: 1.74, energy: 3.87, multiplicity: 4, freq: 0}
+  1:
+  - {d_par: 0, d_perp: 2.63, energy: 1.95, multiplicity: 2, freq: 0}
+  - {d_par: 0, d_perp: 3.02, energy: 3.09, multiplicity: 4, freq: 0}
+  - {d_par: 2.28, d_perp: 1.54, energy: 2.15, multiplicity: 2, freq: 0}
+  - {d_par: 2.28, d_perp: 1.74, energy: 3.45, multiplicity: 4, freq: 0}
+  2:
+  - {d_par: 0, d_perp: 2.63, energy: 1.22, multiplicity: 2, freq: 0}
+  - {d_par: 0, d_perp: 3.02, energy: 2.52, multiplicity: 4, freq: 0}
+  - {d_par: 2.28, d_perp: 1.54, energy: 1.46, multiplicity: 2, freq: 0}
+  - {d_par: 2.28, d_perp: 1.74, energy: 2.68, multiplicity: 4, freq: 0}
+vac_1_Cr-split:
+  -1:
+  - {d_par: 2.009, d_perp: 0, energy: 2.793, multiplicity: 1, freq: 0}
+  - {d_par: 2.123, d_perp: 0, energy: 3.026, multiplicity: 1, freq: 0}
+  -2:
+  - {d_par: 2.054, d_perp: 0, energy: 3.088, multiplicity: 1, freq: 0}
+  - {d_par: 2.074, d_perp: 0, energy: 2.845, multiplicity: 1, freq: 0}
+  -3:
+  - {d_par: 1.649, d_perp: 0, energy: 2.761, multiplicity: 1, freq: 0}
+  - {d_par: 2.473, d_perp: 0, energy: 3.243, multiplicity: 1, freq: 0}
+  0:
+  - {d_par: 1.654, d_perp: 0, energy: 2.091, multiplicity: 1, freq: 0}
+  - {d_par: 2.48, d_perp: 0, energy: 1.479, multiplicity: 1, freq: 0}
+inter_1_Cr:
+  0:
+  - {d_par: 2.348, d_perp: 3.002, energy: 2.26, multiplicity: 6, freq: 5.39}
+  1:
+  - {d_par: 2.380, d_perp: 2.981, energy: 1.86, multiplicity: 6, freq: 8.71}
+  2:
+  - {d_par: 2.316, d_perp: 2.940, energy: 2.62, multiplicity: 6, freq: 10.23}
+  3:
+  - {d_par: 2.244, d_perp: 2.735, energy: 3.69, multiplicity: 6, freq: 76.89}
+inter_2_O:
+  0:
+  - {d_par: 0, d_perp: 2.61, energy: 1.52, multiplicity: 6, freq: 54.98}
+  - {d_par: 2.256, d_perp: 1.527, energy: 1.27, multiplicity: 6, freq: 27.15}
+  -1:
+  - {d_par: 0, d_perp: 2.61, energy: 2.12, multiplicity: 6, freq: 2.73}
+  - {d_par: 2.256, d_perp: 1.527, energy: 0.21, multiplicity: 6, freq: 2.13}
+  - {d_par: 2.256, d_perp: 3.515, energy: 1.63, multiplicity: 2, freq: 6.34}
+  -2:
+  - {d_par: 0, d_perp: 2.61, energy: 0.30, multiplicity: 6, freq: 6.35}
+  - {d_par: 2.256, d_perp: 1.527, energy: 0.29, multiplicity: 6, freq: 6.77}
+  - {d_par: 2.256, d_perp: 3.515, energy: 0.58, multiplicity: 2, freq: 48.12}
